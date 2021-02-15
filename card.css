@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Princess+Sofia&family=Sofia&display=swap');
+
+html {
+    font-family: 'Sofia', cursive;
+}
+
+
+
+h2 {
+    text-align: center;
+    color: darkblue;
+}
+
+.card {
+
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 5px 5px 0 0;
+    margin: 5px;
+}
+
+img {
+    border-radius: 5px 5px 5px 5px;
+    width: 100%;
+    padding: 10px 0 0 0;
+}
+
+.container {
+    display: inline-block;
+    border-radius: 5px 5px 0 0;
+    box-shadow: 4px 8px 8px silver;
+    padding: 2px 16px;
+    text-align: center;
+    margin: auto;
+    background-color: rgba(4, 0, 255, 0.514);
+    color: blue;
+    text-shadow: 4px 8px 8px black;
+
+
+
+}
